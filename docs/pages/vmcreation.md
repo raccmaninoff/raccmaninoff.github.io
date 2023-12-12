@@ -7,6 +7,7 @@
 ![Overview of the VM so far](/docs/assets/images/debvm5_vmoverview.png)
 ## Part 2
 ![Select disk to partition (there is only one)](/docs/assets/images/debvm6_partitiondisk.png)
+Hello
 ![Select how to partition the disk, first option](/docs/assets/images/debvm7_partitiondisk2.png)
 ![Overview of disk partitioning](/docs/assets/images/debvm8_partitionoverview.png)
 ![Confirm disk partitioning](/docs/assets/images/debvm9_confirm.png)
